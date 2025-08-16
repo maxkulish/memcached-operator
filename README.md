@@ -1,8 +1,8 @@
 # memcached-operator
-// TODO(user): Add simple overview of use/purpose
+Kubernetes Memcached Operator - manages Memcached deployments on Kubernetes
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
+This operator manages Memcached instances deployed on a Kubernetes cluster
 
 ## Getting Started
 
